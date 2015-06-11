@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'activerecord', '4.2.1'
+gem 'standalone_migrations', '4.0.2'
+gem 'sqlite3', '1.3.10'
+gem 'activesupport', '4.2.1'
+gem 'oj', '2.12.9' 
+gem 'watir-webdriver', '0.7.0'
